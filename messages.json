@@ -1,0 +1,42 @@
+[
+    {
+        "id": 2,
+        "name": "bose",
+        "email": "bose@gam",
+        "phone": "88888",
+        "subject": "hello",
+        "message": "i want to buy land cruiser\r\n",
+        "submitted_at": "2026-03-04 23:39:16",
+        "read": 1
+    },
+    {
+        "id": 3,
+        "name": "dusabimana jean leo",
+        "email": "jeanleo@gmail.com",
+        "phone": "7916387263",
+        "subject": "hello",
+        "message": "i want to chat with you",
+        "submitted_at": "2026-03-05 00:37:19",
+        "read": 1
+    },
+    {
+        "id": 4,
+        "name": "byiringiro pacifique",
+        "email": "pacifiquebyiringiro135@gmail.com",
+        "phone": "7916387263",
+        "subject": "request car",
+        "message": "hello i need to buy mercr",
+        "submitted_at": "2026-03-05 00:43:44",
+        "read": 1
+    },
+    {
+        "id": 5,
+        "name": "Byiringiro Pacifique",
+        "email": "pacifiquebyiringiro135@gmail.com",
+        "phone": "7916387263",
+        "subject": "kk",
+        "message": "nn",
+        "submitted_at": "2026-03-06 00:10:40",
+        "read": 0
+    }
+]
